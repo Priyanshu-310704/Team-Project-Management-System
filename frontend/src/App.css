@@ -1,0 +1,8 @@
+/* App specific styles will go into component CSS or inline classes. 
+   Most layout is handled via global styles in index.css 
+   or component specific modules/inline structures. */
+.app-container {
+  display: flex;
+  min-height: 100vh;
+  width: 100%;
+}
