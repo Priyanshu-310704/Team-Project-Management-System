@@ -35,4 +35,4 @@ A production-style MERN application for managing team projects and tasks.
 cd backend
 npm install
 npm run dev
-#completed
+#completed finally
